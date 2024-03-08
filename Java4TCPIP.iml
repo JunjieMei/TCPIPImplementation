@@ -45,5 +45,6 @@
       </library>
     </orderEntry>
     <orderEntry type="library" scope="TEST" name="apidocs" level="project" />
+    <orderEntry type="library" name="jpcap" level="project" />
   </component>
 </module>
